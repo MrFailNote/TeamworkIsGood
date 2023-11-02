@@ -71,4 +71,4 @@ async def decay(ctx):
     await ctx.send(infotext)
     await ctx.send(file=picture)
     
-bot.run("MTE2Nzc4OTYwNTQ4Mzk3NDY5OA.GN_i2S.lU61QNtqsXFTS78z5j_W6bIf2q6z7SxEx9P22s")
+bot.run("vstavish")
